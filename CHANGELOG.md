@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Extending the adopted spec, each change should have a link to its corresponding pull request appended.
 
+## [38.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v38.0.1...v38.0.2) (2025-08-26)
+
+
+### Bug Fixes
+
+* note org support of Identity Service for GKE ([#2422](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/2422)) ([893ba59](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/commit/893ba597d38bef0bc6a47a5d2a37c802f7ce749d))
+
 ## [38.0.1](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v38.0.0...v38.0.1) (2025-08-22)
 
 
